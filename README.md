@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🛡️ Phishing Detection and Analysis Tool
 
-<!--
-**cyber-security-group39/cyber-security-group39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A lightweight yet powerful tool for detecting, analyzing, and reporting phishing attempts.  
+Designed for security researchers, system administrators, and anyone looking to strengthen defenses against social engineering attacks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Features
+
+- **Real-time Detection** – Identify phishing attempts in emails, URLs, and HTML content.
+- **Multi-layer Analysis** – Checks domain reputation, suspicious keywords, and embedded links.
+- **Machine Learning Integration** – Classifies content using trained phishing detection models.
+- **Automated Reporting** – Generates analysis reports for security teams or law enforcement.
+- **URL & Email Header Parsing** – Extracts and inspects domains, IP addresses, and redirect chains.
+- **Offline and Online Modes** – Works without an internet connection using local databases, or queries external APIs for up-to-date intelligence.
