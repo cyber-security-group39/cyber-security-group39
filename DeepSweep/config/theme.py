@@ -1,0 +1,11 @@
+
+BG_COLOR = "#121212" 
+FG_COLOR = "#00FF00"  
+ACCENT_COLOR = "#006600"  
+BUTTON_COLOR = "#003300" 
+TEXT_BG = "#000000"  
+CHECKBOX_BG = "#222222"  
+
+
+FONT = ("Courier New", 10)
+LARGE_FONT = ("Courier New", 12, "bold")
