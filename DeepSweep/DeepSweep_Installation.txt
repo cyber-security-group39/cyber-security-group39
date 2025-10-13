@@ -1,0 +1,15 @@
+DeepSweep Installation Guide
+
+Follow the steps below to set up and run DeepSweep:
+
+1. Open your terminal and run this 2 commands one by one:
+   python -m venv deepsweepvenv
+   source ./deepsweepvenv/bin/activate
+
+2. navigate to the deepsweep folder and install dependencies:
+   pip install -r requirements.txt (the folder which holds the deepsweep tools files)
+
+3. run the application:
+   python main.py
+
+
