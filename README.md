@@ -1,5 +1,5 @@
 # 📄 README Placeholder
-# We’re on our way to push our project to GitHub. Today, we will upload it. Please be patient.
+# Some were pushed for the left We’re on our way to push our project to GitHub. Today, we will upload it. Please be patient.
 
 🛡️ Multi Vulnerability Web Scanner
 
