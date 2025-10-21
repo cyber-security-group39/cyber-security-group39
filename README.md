@@ -41,5 +41,5 @@ Issues are color coded by severity: Critical, Medium or Low risk.
 
 🏗️ Installation & Usage
 
--1- Go to " deepsweep new " file path
--2- Then Run " python deepsweep.py "
+1- Go to " deepsweep new " file path.
+2- Then Run " python deepsweep.py ".
