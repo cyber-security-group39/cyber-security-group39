@@ -43,8 +43,9 @@ It helps developers and website owners detect weaknesses before attackers can ex
 
 ## 🏗️ Installation & Usage
 
-1. Navigate to the `deepsweep new` folder.  
-2. Run the scanner script with Python:
+1. Navigate to the `deepsweep new` folder.
+2. pip install -r requirements.txt.  
+3. Run the scanner script with Python:
 
 ```bash
 python deepsweep.py
