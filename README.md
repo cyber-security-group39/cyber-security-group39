@@ -1,5 +1,4 @@
-# 📄 README Placeholder
-# Some were pushed for the left We’re on our way to push our project to GitHub. Today, we will upload it. Please be patient.
+# 📄 README
 
 🛡️ Multi Vulnerability Web Scanner
 
@@ -19,8 +18,6 @@ Detects places where attackers could run commands remotely.
 Port and Header Analysis
 Scans open ports and HTTP headers to find misconfigurations or risks.
 
-AI Assistant
-Your personal guide inside the scanner. Ask it things like “How do I fix this vulnerability?” and it gives clear step by step advice.
 
 Detailed Reports
 Clean, organized results with vulnerability type, risk level and recommended fixes.
@@ -40,10 +37,9 @@ Issues are color coded by severity: Critical, Medium or Low risk.
 
 2. Automated Testing – Smart tests for common vulnerabilities run automatically.
 
-3. AI Guidance – If vulnerabilities are found the AI Assistant explains what they mean and how to fix them.
-
-4. View Reports – Findings are presented in a detailed easy to read format so you can act fast.
+3. View Reports – Findings are presented in a detailed easy to read format so you can act fast.
 
 🏗️ Installation & Usage
 
-Instructions for installing and running the scanner will be added once the project is ready for release.
+-1- Go to " deepsweep new " file path
+-2- Then Run " python deepsweep.py "
