@@ -1,4 +1,4 @@
-# 📄 DeepSweep – Multi Vulnerability Web Scanner
+# 📄 DeepSweep New – Multi Vulnerability Web Scanner
 
 🛡️ **DeepSweep** is a smart, fast, and reliable tool designed to scan websites for security vulnerabilities.  
 It helps developers and website owners detect weaknesses before attackers can exploit them, making web security simpler and more accessible.
